@@ -1,4 +1,4 @@
-## Ex-29 : Decrease date by  x months :  
+## Ex-34 : Decrease date by  x months :  
 Write a program to read date and make a function to decrease it a given number of months.  
 
 -> enter date :  

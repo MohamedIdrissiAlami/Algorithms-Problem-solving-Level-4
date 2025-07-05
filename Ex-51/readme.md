@@ -1,4 +1,4 @@
-## Ex-50 : is date within period :   
+## Ex-51 : is date within period :   
 Write a program to read a period and date , then check if date is within this period or not.  
 ____  
 Enter period :  
